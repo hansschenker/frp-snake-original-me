@@ -1,7 +1,6 @@
-# FRP Snake
+# Functional Rreactive Programming with RxJs
 
-RxJS 6 game implementation based on this awesome article:
-https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html
+RxJS Snake Game
 
 `npm i`<br>
 `npm start`<br>
